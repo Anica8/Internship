@@ -17,7 +17,5 @@ pip3 install -r requirements.txt
 ```
 ### Running code
 ```bash
-python3 face_detection.py
+python app.py
 ```
-## Reference 
-- [Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)

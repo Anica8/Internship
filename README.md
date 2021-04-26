@@ -19,8 +19,5 @@ pip3 install -r requirements.txt
 ```bash
 python3 face_detection.py
 ```
-### Input for Program
-- After runing the above command, the webcam will turn on. To capture the picture press "q", program will capture the frame as the input and predict if the detected face is  Real/Spoofed.
-
 ## Reference 
 - [Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)

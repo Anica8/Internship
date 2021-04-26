@@ -1,5 +1,5 @@
 # Internship
-antispoofing
+Anti-spoofing api to distinguish fake and real image
 ### The aim of this project is to differentiate between a Real and Fake Face.
 * ### _Real Face_ :
   Real Faces are those where an actual person is detected and is not a part of an inanimated object such as a smartphone.
